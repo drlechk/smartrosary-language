@@ -420,6 +420,41 @@ window.registerNvsEditorFixture({
         "encoding": "utf-8"
       },
       {
+        "namespace": "lang",
+        "key": "l059",
+        "value": "Audio",
+        "storageType": "blob",
+        "encoding": "utf-8"
+      },
+      {
+        "namespace": "lang",
+        "key": "l060",
+        "value": "Volume de\nlecture",
+        "storageType": "blob",
+        "encoding": "utf-8"
+      },
+      {
+        "namespace": "lang",
+        "key": "l061",
+        "value": "Lecture auto",
+        "storageType": "blob",
+        "encoding": "utf-8"
+      },
+      {
+        "namespace": "lang",
+        "key": "l062",
+        "value": "Avancer grains\naprès audio",
+        "storageType": "blob",
+        "encoding": "utf-8"
+      },
+      {
+        "namespace": "lang",
+        "key": "l063",
+        "value": "Prière\nalternée",
+        "storageType": "blob",
+        "encoding": "utf-8"
+      },
+      {
         "namespace": "mysteries",
         "key": "mS",
         "value": "-\nJoyeux (lun. | sam.)\nLumineux (jeu.)\nDouloureux (mar. | ven.)\nGlorieux (mer. | dim.)\nChapelet\nIntention",

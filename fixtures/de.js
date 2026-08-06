@@ -420,6 +420,41 @@ window.registerNvsEditorFixture({
         "encoding": "utf-8"
       },
       {
+        "namespace": "lang",
+        "key": "l059",
+        "value": "Audio",
+        "storageType": "blob",
+        "encoding": "utf-8"
+      },
+      {
+        "namespace": "lang",
+        "key": "l060",
+        "value": "Wiedergabe-\nlautstärke",
+        "storageType": "blob",
+        "encoding": "utf-8"
+      },
+      {
+        "namespace": "lang",
+        "key": "l061",
+        "value": "Autowiedergabe",
+        "storageType": "blob",
+        "encoding": "utf-8"
+      },
+      {
+        "namespace": "lang",
+        "key": "l062",
+        "value": "Perlen nach\nAudio weiter",
+        "storageType": "blob",
+        "encoding": "utf-8"
+      },
+      {
+        "namespace": "lang",
+        "key": "l063",
+        "value": "Wechselgebet",
+        "storageType": "blob",
+        "encoding": "utf-8"
+      },
+      {
         "namespace": "mysteries",
         "key": "mS",
         "value": "-\nFreudenvolle (Mo. | Sa.)\nLichtreiche (Do.)\nSchmerzhafte (Di. | Fr.)\nGlorreiche (Mi. | So.)\nKorone\nAnliegen",

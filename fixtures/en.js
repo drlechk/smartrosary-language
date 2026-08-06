@@ -420,6 +420,41 @@ window.registerNvsEditorFixture({
         "encoding": "utf-8"
       },
       {
+        "namespace": "lang",
+        "key": "l059",
+        "value": "Audio",
+        "storageType": "blob",
+        "encoding": "utf-8"
+      },
+      {
+        "namespace": "lang",
+        "key": "l060",
+        "value": "Playback\nvolume",
+        "storageType": "blob",
+        "encoding": "utf-8"
+      },
+      {
+        "namespace": "lang",
+        "key": "l061",
+        "value": "Auto play",
+        "storageType": "blob",
+        "encoding": "utf-8"
+      },
+      {
+        "namespace": "lang",
+        "key": "l062",
+        "value": "Advance beads\nafter audio",
+        "storageType": "blob",
+        "encoding": "utf-8"
+      },
+      {
+        "namespace": "lang",
+        "key": "l063",
+        "value": "Alternating prayer",
+        "storageType": "blob",
+        "encoding": "utf-8"
+      },
+      {
         "namespace": "mysteries",
         "key": "mS",
         "value": "-\nJoyful (Mon. | Sat.)\nLuminous (Thu.)\nSorrowful (Tue. | Fri.)\nGlorious (Wed. | Sun.)\nChaplet\nIntention",

@@ -420,6 +420,41 @@ window.registerNvsEditorFixture({
         "encoding": "utf-8"
       },
       {
+        "namespace": "lang",
+        "key": "l059",
+        "value": "Audio",
+        "storageType": "blob",
+        "encoding": "utf-8"
+      },
+      {
+        "namespace": "lang",
+        "key": "l060",
+        "value": "Volumen de\nreproducción",
+        "storageType": "blob",
+        "encoding": "utf-8"
+      },
+      {
+        "namespace": "lang",
+        "key": "l061",
+        "value": "Autoreproducción",
+        "storageType": "blob",
+        "encoding": "utf-8"
+      },
+      {
+        "namespace": "lang",
+        "key": "l062",
+        "value": "Avanzar cuentas\ntras audio",
+        "storageType": "blob",
+        "encoding": "utf-8"
+      },
+      {
+        "namespace": "lang",
+        "key": "l063",
+        "value": "Oración\nalternada",
+        "storageType": "blob",
+        "encoding": "utf-8"
+      },
+      {
         "namespace": "mysteries",
         "key": "mS",
         "value": "-\nGozosos (lun. | sáb.)\nLuminosos (jue.)\nDolorosos (mar. | vie.)\nGloriosos (mié. | dom.)\nCoronilla\nIntención",

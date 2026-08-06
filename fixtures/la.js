@@ -420,6 +420,41 @@ window.registerNvsEditorFixture({
         "encoding": "utf-8"
       },
       {
+        "namespace": "lang",
+        "key": "l059",
+        "value": "Audio",
+        "storageType": "blob",
+        "encoding": "utf-8"
+      },
+      {
+        "namespace": "lang",
+        "key": "l060",
+        "value": "Sonus\nvolumen",
+        "storageType": "blob",
+        "encoding": "utf-8"
+      },
+      {
+        "namespace": "lang",
+        "key": "l061",
+        "value": "Auto-recitatio",
+        "storageType": "blob",
+        "encoding": "utf-8"
+      },
+      {
+        "namespace": "lang",
+        "key": "l062",
+        "value": "Paternostra\npost sonum movere",
+        "storageType": "blob",
+        "encoding": "utf-8"
+      },
+      {
+        "namespace": "lang",
+        "key": "l063",
+        "value": "Oratio\nalternata",
+        "storageType": "blob",
+        "encoding": "utf-8"
+      },
+      {
         "namespace": "mysteries",
         "key": "mS",
         "value": "-\ngaudiosa (lun.|sab.)\nluminosa (iov.)\ndolorosa (mar.|ven.)\ngloriosa (mer.|dom.)\nCoronula\nIntentio",

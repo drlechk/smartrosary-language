@@ -5,7 +5,7 @@ window.registerNvsEditorFixture({
   "state": {
     "format": "smartrosary-language-v1",
     "language": "pl",
-    "version": "1.37",
+    "version": "1.38",
     "partitionSize": 20480,
     "nvsVersion": 2,
     "namespaceOrder": [

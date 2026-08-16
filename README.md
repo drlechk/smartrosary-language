@@ -14,7 +14,7 @@ metadata.
   editor.
 - `fixtures/*.js` contains one SmartRosary NVS language fixture per language.
 
-Current fixture languages are `de`, `en`, `es`, `fr`, `la`, `pl`, and `pt`.
+Current fixture languages are `de`, `en`, `es`, `fr`, `it`, `la`, `pl`, and `pt`.
 
 ## Generate Published Binaries
 
